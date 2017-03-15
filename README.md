@@ -52,7 +52,8 @@
 # ARQUITECTURA DE SOFTWARE
 
 - Video Parte 1: https://youtu.be/2Bcbls0bBzs
-- 
+- Video Parte 2: https://youtu.be/97_3-D4NrI0
+- Video Parte 3: https://youtu.be/zZWVMmeDdQw
 
 # RECURSOS DEL CURSO
 
