@@ -70,6 +70,14 @@
 - Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
 - Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 
+# Auto-Evaluación
+
+- Enlace 1: http://cibertest.com/test-examen/11/java
+- Enlace 2: http://www.digitallearning.es/tests/java-poo.html
+- Enlace 3: http://www.testprogramacion.com/java
+- Enlace 4: https://blog.udemy.com/entrevista-de-trabajo-de-java-las-10-preguntas-mas-frecuentes-y-como-contestarlas/
+- Enlace 5: http://pregunta2.com/quiz/test-de-programacion-en-java-891
+- Enlace 6: http://ocw.uc3m.es/ingenieria-informatica/programacion/pruebas-de-evaluacion
 
 
 
