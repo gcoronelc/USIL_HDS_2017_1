@@ -47,7 +47,8 @@
 - Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Código fuente: https://goo.gl/GRaOQg
-
+- JDBC: http://www.tutorialspoint.com/jdbc/
+- Recursos diversos: http://www.java2s.com/
 
 # ARQUITECTURA DE SOFTWARE
 
@@ -78,9 +79,13 @@
 - Enlace 4: https://blog.udemy.com/entrevista-de-trabajo-de-java-las-10-preguntas-mas-frecuentes-y-como-contestarlas/
 - Enlace 5: http://pregunta2.com/quiz/test-de-programacion-en-java-891
 - Enlace 6: http://ocw.uc3m.es/ingenieria-informatica/programacion/pruebas-de-evaluacion
-
-
-
+- Enlace 7: http://fresh2refresh.com/java-questions/
+- Enlace 8: http://scjptest.com/mock-test.xhtml?execution=e2s1
+- Enlace 9: https://www.tutorialspoint.com/jdbc/jdbc_online_test.htm
+- Enlace 10: http://www.careerride.com/test.aspx?type=JDBC
+- Enlace 11: https://preparandoscjp.wordpress.com/guia-rapida/
+- Enlace 12: https://preparandoscjp.wordpress.com/2011/04/19/recopilacion-de-examenes-de-prueba/
+- Enlace 13: http://www.w3ii.com/es/jdbc/jdbc_mock_test.html
 
 
 
