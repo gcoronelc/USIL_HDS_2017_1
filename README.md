@@ -49,6 +49,7 @@
 - Código fuente: https://goo.gl/GRaOQg
 - JDBC: http://www.tutorialspoint.com/jdbc/
 - Recursos diversos: http://www.java2s.com/
+- Tutoriales: http://tutorials.jenkov.com/
 
 # ARQUITECTURA DE SOFTWARE
 
@@ -86,8 +87,9 @@
 - Enlace 11: https://preparandoscjp.wordpress.com/guia-rapida/
 - Enlace 12: https://preparandoscjp.wordpress.com/2011/04/19/recopilacion-de-examenes-de-prueba/
 - Enlace 13: http://www.w3ii.com/es/jdbc/jdbc_mock_test.html
-
-
+- Enlace 14: http://www.pskills.org/jdbc.jsp
+- Enlace 15: http://www.javatpoint.com/core-java-quiz
+- Enlace 16: http://www.javatpoint.com/examaccess
 
 
 
