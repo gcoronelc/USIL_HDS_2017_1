@@ -1,0 +1,53 @@
+TEMAS
+====================================================
+
+1.- Patrones Factory
+    Garcia Solis
+
+2.- Principios SOLID
+
+
+3.- Expresiones Lambda y Strem en Java 8
+    
+
+4.- Pruebas Unitarias
+    Sotil Edison
+
+5.- Manejo de Archivos Log
+    Osorio Helthon    
+
+6.- Manejo de Datos Genericos - Generic
+
+
+
+ENTREGABLES
+==============================================================
+
+Se comparte via un repositorio en GitHub: USIL_HDS_Tema
+
+  A.- Monografia
+  B.- PPT
+  C.- Ejemplos
+
+
+EVALUACION
+===============================================================
+
+1.- Presentación
+2.- Monofrafia
+3.- Exposición
+4.- Ejemplos
+5.- Respuesta a preguntas
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
