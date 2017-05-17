@@ -8,7 +8,7 @@ TEMAS
 
 
 3.- Expresiones Lambda y Strem en Java 8
-    
+    MERCATI ROJAS
 
 4.- Pruebas Unitarias
     Sotil Edison
@@ -17,6 +17,7 @@ TEMAS
     Osorio Helthon    
 
 6.- Manejo de Datos Genericos - Generic
+    Moscol y Guerra
 
 
 
@@ -37,11 +38,20 @@ Se comparte via un repositorio en GitHub: USIL_HDS_Tema
 EVALUACION
 ===============================================================
 
-1.- Presentación
-2.- Monofrafia
-3.- Exposición
-4.- Ejemplos
-5.- Respuesta a preguntas
+1.- Presentación                 (N1)
+     - Terno: 20
+     - Terno incompleto: 15
+     - Informal: 10
+2.- Monofrafia con formato APA   (N2)
+3.- Exposición                   (N3)
+4.- Ejemplos                     (N4)
+5.- Respuesta a preguntas        (N5)
+
+NOTA = (N1 + N2 + N3 + N4 + N5) / 5
+
+
+
+
 
 
 
