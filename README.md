@@ -1,5 +1,8 @@
 ![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_HDS_2017_1/master/USIL_HDS.png)
 
+![TALLER DE PROGRAMACION WEB](https://github.com/gcoronelc/USIL_HDS_2017_1/blob/master/Fotos/Foto03.jpg)
+
+
 # HERRAMIENTAS PARA EL DESARROLLO DE SOFTWARE
 
 - Lugar: INSTITUTO EMPRENDEDORES
