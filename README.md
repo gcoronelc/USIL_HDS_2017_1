@@ -95,6 +95,15 @@
 - Enlace 16: http://www.javatpoint.com/examaccess
 
 
+![TALLER DE PROGRAMACION WEB](https://github.com/gcoronelc/USIL_HDS_2017_1/blob/master/Fotos/Foto03.jpg)
+
+![TALLER DE PROGRAMACION WEB](https://github.com/gcoronelc/USIL_HDS_2017_1/blob/master/Fotos/Foto05.jpg)
+
+![TALLER DE PROGRAMACION WEB](https://github.com/gcoronelc/USIL_HDS_2017_1/blob/master/Fotos/Foto07.jpg)
+
+![TALLER DE PROGRAMACION WEB](https://github.com/gcoronelc/USIL_HDS_2017_1/blob/master/Fotos/Foto10.jpg)
+
+
 
 
 
