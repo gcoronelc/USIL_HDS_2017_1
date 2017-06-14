@@ -1,0 +1,20 @@
+==================================================
+PREGUNTA 01
+==================================================
+
+Consultar las cuentas de una sucursal.
+
+El dato de entrada es el codigo de la sucursal.
+
+
+Debe mostrar los siguientes datos:
+CUENTA      CLIENTE     SALDO      ESTADO      CANT.MOVS.
+
+Por ejemplo, podría ser así:
+
+CUENTA      CLIENTE     SALDO      ESTADO      CANT.MOVS.
+------------------------------------------------------------
+00100001    00001       2345.67    ACTIVO         7
+00100002    00004       7689.34    ACTIVO         4
+
+
